@@ -1,0 +1,2 @@
+\usetikzlibrary{automata,arrows,patterns,shapes.geometric,shapes.misc,snakes,decorations.footprints}
+\tikzset{>=stealth}
